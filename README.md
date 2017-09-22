@@ -4,10 +4,10 @@ This repository is a foundation for the robot game project. Build off of this ba
 ## Task
 Building off the code in this repository, create a grid-based game. This game will be a re-creation of the FRC game for the 2017 season. Your game should feature gears that can be picked up, pegs which the gear can be placed on, and a climber that the robot can climb. Following this design, a the user should be able to control a robot to move around the grid and perform actions. Don't worry too much about the graphics, colors squares will work fine.
 
-### Goals
+## Goals
 * Learn object oriented programming (OOP)
 
-### Installation
+## Installation
 
 To get this project onto your computer, you can either clone the repository using git or download it.
 #### Cloning with git
@@ -22,7 +22,7 @@ In this repository's home page ([https://github.com/Chocomunk/RobotGame](https:/
 
 ![](https://i.imgur.com/IQgh7ms.png)
 
-### Importing into eclipse
+## Importing into eclipse
 First, make sure this repository is downloaded into your desired directory, I have mine in a "Java" folder in my user's "Documents" folder.
 
 ![](https://i.imgur.com/M2RgLsg.png)

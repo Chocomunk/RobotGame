@@ -1,7 +1,7 @@
-#Robot Game Base
+# Robot Game Base
 This repository is a foundation for the robot game project. Build off of this base and see what you can come up with!
 
-##Task
+## Task
 Building off the code in this repository, create a grid-based game. This game will be a re-creation of the FRC game for the 2017 season. Your game should feature gears that can be picked up, pegs which the gear can be placed on, and a climber that the robot can climb. Following this design, a the user should be able to control a robot to move around the grid and perform actions. Don't worry too much about the graphics, colors squares will work fine.
 
 ### Goals

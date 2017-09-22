@@ -12,7 +12,7 @@ Building off the code in this repository, create a grid-based game. This game wi
 To get this project onto your computer, you can either clone the repository using git or download it.
 #### Cloning with git
 
-Make sure git is install then run the command below in your desired parent directory.
+Make sure git is installed then run the command below in your desired parent directory.
 ```
 $ git clone https://github.com/Chocomunk/RobotGame
 ```
